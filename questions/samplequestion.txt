@@ -1,0 +1,24 @@
+Question Text
+Question Type (1 for 4-choice multiple choice, 2 for true/false, 3 for open-ended)
+Correct Answer
+Incorrect Answer
+Incorrect Answer
+Incorrect Answer
+Difficulty Rating (1-5)
+Seconds for user to answer question
+
+Question Text
+Question Type
+(0 for false, 1 for true)
+Difficulty Rating
+Seconds
+
+Question Text
+Question Type
+Number of answers that could be used
+Expected Answer 1
+Expected Answer 2
+...
+Expected Answer n
+Difficulty
+Seconds

@@ -1,0 +1,5 @@
+A|~A when A is anything
+2
+1
+3
+30
